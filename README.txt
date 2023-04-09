@@ -4,7 +4,7 @@ Cássio Yonetsuka - RM:99678
 Guilherme Brazioli - RM:98237
 Matheus Cavasini - RM:97722
 Allan Von Ivanov - RM:98705
-Lourenzo - RM:
+Lourenzo Ramos - RM:99951
 -Descrição
 O projeto foi feito para detectar luminosidade e alerte
 caso esteja muito iluminado com leds indicando o nível de luminosidade.
