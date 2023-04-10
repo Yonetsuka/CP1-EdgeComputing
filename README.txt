@@ -1,6 +1,6 @@
 /////Checpoint 1(edge computing)//////
 
--Membros do grupo
+Membros do grupo
 Cássio Yonetsuka - RM:99678
 Guilherme Brazioli - RM:98237
 Matheus Cavasini - RM:97722
